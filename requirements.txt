@@ -1,0 +1,43 @@
+# Core ML Dependencies
+tensorflow==2.15.0
+keras==2.15.0
+numpy==1.26.4
+pillow==10.3.0
+tqdm==4.66.1
+
+# TensorFlow Dependencies
+absl-py==2.1.0
+astunparse==1.6.3
+flatbuffers==23.5.26
+gast==0.5.4
+google-pasta==0.2.0
+grpcio==1.62.2
+h5py==3.10.0
+libclang==16.0.6
+ml-dtypes==0.2.0
+opt-einsum==3.3.0
+protobuf==4.25.3
+six==1.16.0
+tensorboard==2.15.2
+tensorboard-data-server==0.7.2
+termcolor==2.4.0
+typing-extensions==4.9.0
+wrapt==1.14.1
+
+# Web/Network Dependencies
+certifi==2024.7.4
+charset-normalizer==3.3.2
+idna==3.7
+requests==2.32.3
+urllib3==2.2.2
+
+# Utilities
+colorama==0.4.6
+Markdown==3.6
+MarkupSafe==2.1.5
+packaging==23.2
+Pygments==2.18.0
+rich==13.7.1
+setuptools==68.2.2
+Werkzeug==3.0.3
+wheel==0.43.0
